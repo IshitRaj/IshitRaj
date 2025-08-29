@@ -4,11 +4,11 @@
 ```javascript
 const me = {
   name: "Ishit Raj",
-  age: 16,
-  code: ["HTML", "CSS", "JavaScript", "JQuery", "React", "Node.js", "MongoDB", "Express.js", "PHP", "PDO SQL"],
+  age: 17,
+  code: ["HTML", "CSS", "JavaScript", "JQuery", "React", "Node.js", "MongoDB", "Express.js", "PHP", "PDO SQL", "Next.js"],
   tools: ["VS Code","Figma"],
-  interests: ["IoT", "AI", "Automation", "Mobile App Dev"],
-  learning: "React Native",
+  interests: ["IoT", "AI", "Automation", "Mobile App Dev", "Aerospace", "Space Science"],
+  learning: "Cosmology",
   funFact: "I prefer tech over trends!"
 };
 ```
