@@ -1,29 +1,45 @@
-### Hey there! 👋 I'm Ishit Raj 
-#### 🚀 MERN Stack Developer | UI Designer | Tech Enthusiast
+<div align="center">
 
-```javascript
-const me = {
-  name: "Ishit Raj",
-  age: 17,
-  code: ["HTML", "CSS", "JavaScript", "JQuery", "React", "Node.js", "MongoDB", "Express.js", "PHP", "PDO SQL", "Next.js"],
-  tools: ["VS Code","Figma"],
-  interests: ["IoT", "AI", "Automation", "Mobile App Dev", "Aerospace", "Space Science"],
-  learning: "Cosmology",
-  funFact: "I prefer tech over trends!"
-};
-```
+# Ishit Raj
 
-### 🔥 About Me
-- 🛠️ Passionate about building scalable web apps & UI/UX designs
-- 💡 Exploring IoT-based projects & affordable automation solutions
-- 🌍 Focused on creating solutions that work in small towns & villages
-- 🚀 Seeking ways to earn online to upgrade my laptop (because dev life demands it!)
+Full-Stack Developer • IoT Engineer • Open Source
 
-### 🏆 Projects & Interests
-- **📡 IoT Weather Station** – Predicts weather & alerts for extreme conditions 🌦️
-- **🎨 UI/UX Designing** – Crafting sleek, minimalistic interfaces ✨
+Building scalable web systems, embedded IoT projects, and developer tools focused on clean architecture and real-world usability.
 
-![Profile Views](https://komarev.com/ghpvc/?username=IshitRaj&color=blue&style=flat-square)
+<a href="https://ishitraj.in">website</a> • <a href="https://ishitraj.in/work">work</a>
+
+</div>
 
 ---
-⚡ *"Turning ideas into reality, one line of code at a time!"*
+
+## About
+
+I work across full-stack engineering, embedded systems, and developer tooling.
+
+Mainly focused on:
+
+* Next.js & MERN applications
+* ESP32 / ESP8266 systems
+* Real-time dashboards
+* IoT automation
+* Performance-focused architecture
+* Open-source tooling
+
+---
+
+## Stack
+
+```txt
+Frontend   React • Next.js • TypeScript
+Backend    Node.js • Express
+Database   MongoDB
+IoT        ESP32 • ESP8266
+```
+
+---
+
+## Contact
+
+**Website:** [https://ishitraj.in](https://ishitraj.in)
+**Work:** [https://ishitraj.in/work](https://ishitraj.in/work)
+**Email:** [dev@ishitraj.in](mailto:dev@ishitraj.in)
